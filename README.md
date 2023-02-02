@@ -17,13 +17,13 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a Software Engineer, (non-practicing) Dental Doctor, Writer who currently works in building backend project while studying at ALX Africa. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech and health), creating & maintaining healthy connections, and having a positive impact.
+I'm a Software Engineer, (non-practicing) dental doctor, writer who currently works in building backend projects while studying at ALX Africa. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech and health), creating & maintaining healthy connections, and having a positive impact.
 
 **Here's a quick summary about me**:
 
 - 👨‍💻 Pronouns: She/Her.
-- 💡 Fun facts: I love afro beats . Sometimes i am curious about world politics.. Currently have a fascinationation with Big data and machine learning. i find life and people intriguing i 
-- 🌱 I’m currently rounding up on learning  Backend Software Engineering with ALX software Engineering, i build python projects with frameworks like Django, Fastapi, flask  [A server downtime monitor ](http://olanike.pythonanywhere.com/) 
+- 💡 Fun facts: I love afro beats . Sometimes i am curious about world politics.. Currently i have a fascinationation with Big data and machine learning. i find life and people intriguing.
+- 🌱 I’m currently rounding up on my learning with Backend Software Engineering with ALX software Engineering, i build python projects with frameworks like Django, Fastapi, flask  [A server downtime monitor ](http://olanike.pythonanywhere.com/) 
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation, Leadership, Healthcare Software.
 - 📫 You can contact me via Twitter: [@Missnikkybaby](https://twitter.com/Missnikkybaby) , email: ogundiranolanike@outlook.com or LinkedIn: [Dr Olanike](www.linkedin.com/in/olanike-ogundiran-972845167)
