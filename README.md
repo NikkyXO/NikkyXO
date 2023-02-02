@@ -5,7 +5,7 @@
 <div align="center">
   
 
-  [![Linkedin Badge](https://img.shields.io/badge/olanike-ogundiran-972845167?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olanike-ogundiran-972845167)](www.linkedin.com/in/olanike-ogundiran-972845167)
+  [![Linkedin Badge](https://www.linkedin.com/in/olanike-ogundiran-972845167=https://www.linkedin.com/in/olanike-ogundiran-972845167)](www.linkedin.com/in/olanike-ogundiran-972845167)
   [![Twitter Badge](https://img.shields.io/badge/-@Missnikkybaby-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Missnikkybaby)](https://twitter.com/Missnikkybaby)
 </div>
  
