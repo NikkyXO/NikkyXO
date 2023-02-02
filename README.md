@@ -5,7 +5,7 @@
 <div align="center">
   
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Dr_Olanike-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olanike-ogundiran-972845167)](www.linkedin.com/in/olanike-ogundiran-972845167)
+  [![Linkedin Badge](https://img.shields.io/badge/olanike-ogundiran-972845167?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olanike-ogundiran-972845167)](www.linkedin.com/in/olanike-ogundiran-972845167)
   [![Twitter Badge](https://img.shields.io/badge/-@Missnikkybaby-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Missnikkybaby)](https://twitter.com/Missnikkybaby)
 </div>
  
@@ -17,7 +17,7 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a friendly Software Engineer, (non-practicing) Dental Doctor, Writer who currently works in building backend project while studying at ALX Africa. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech and health), creating & maintaining healthy connections, and having a positive impact.
+I'm a Software Engineer, (non-practicing) Dental Doctor, Writer who currently works in building backend project while studying at ALX Africa. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech and health), creating & maintaining healthy connections, and having a positive impact.
 
 **Here's a quick summary about me**:
 
