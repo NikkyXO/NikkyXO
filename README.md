@@ -5,7 +5,7 @@
 <div align="center">
   
 
-  [LinkedIn](www.linkedin.com/in/olanike-ogundiran-972845167)(www.linkedin.com/in/olanike-ogundiran-972845167)
+  [LinkedIn](www.linkedin.com/in/olanike-ogundiran-972845167)
   [![Twitter Badge](https://img.shields.io/badge/-@Missnikkybaby-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Missnikkybaby)](https://twitter.com/Missnikkybaby)
 </div>
  
@@ -26,7 +26,6 @@ I'm a Software Engineer, (non-practicing) Dental Doctor, Writer who currently wo
 - 🌱 I’m currently rounding up on learning  Backend Software Engineering with ALX software Engineering, i build python projects with frameworks like Django, Fastapi, flask  [A server downtime monitor ](http://olanike.pythonanywhere.com/) 
 - 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
 - 💼 Job interests: Software Engineering, Technical Writing, Community Management, Editing, Quality Assurance, Search Engine Evaluation, Leadership, Healthcare Software.
-- 👉 Read my articles in [Austin's Space](https://ze-austin.hashnode.dev) on Hashnode.
 - 📫 You can contact me via Twitter: [@Missnikkybaby](https://twitter.com/Missnikkybaby) or email: ogundiranolanike@outlook.com.
 
 ---
