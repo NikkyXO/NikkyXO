@@ -17,7 +17,7 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a Software Engineer, dentistr who currently works in building backend projects while studying at ALX Africa. I'm passionate about learning, teaching, web development, discovering & solving problems (in communication, tech and health), creating & maintaining healthy connections, and having a positive impact.
+I'm a Software Engineer, dentist. I'm passionate about learning, web development, solving problems (in communication, tech and health), creating & maintaining healthy connections, and having a positive impact.
 
 **Here's a quick summary about me**:
 
