@@ -60,7 +60,4 @@ I'm a Software Engineer, dentist. I'm passionate about learning, web development
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikkyXO&show_icons=true&include_all_commits=true&hide_border=true" alt="NikkyXO's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkyXO&langs_count=8&layout=compact&hide_border=true" alt="NikkyXO's GitHub stats" />
-| ------------- | ------------- |
