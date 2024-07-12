@@ -19,16 +19,16 @@
 
 I'm a Software Engineer, dedicated and with a strong foundation in data engineering and agile methodologies, determined
 to leave a lasting imprint on the technological landscape and is passionate about continuous growth.
-Seeking to leverage my technical expertise and problem-solving skills to drive software development excellence in a
+I am Seeking to leverage my technical expertise and problem-solving skills to drive innovation and excellence in a
 dynamic tech environment
 **Here's a quick summary about me**:
 
 - 👨‍💻 Pronouns: She/Her.
-- 💡 Fun facts: I love afro beats. i am knowledge-hungry. i find life and people intriguing.
-- 🌱 I build projects with frameworks like Django, Fastapi, flask  [A server downtime monitor ](http://olanike.pythonanywhere.com/) 
-- 😊 I’m looking for help with open source projects, hackathons, internships, job opportunities, and startup partnerships.
-- 💼 Job interests: Backend Software Engineering, HealthTech.
-- 📫 You can contact me via Twitter: [@Missnikkybaby](https://twitter.com/Missnikkybaby) , email: ogundiranolanike@outlook.com or LinkedIn: [Dr Olanike](www.linkedin.com/in/olanike-ogundiran-972845167)
+- 💡 Fun facts: I love listening to Tems. i am knowledge-hungry. i love intelligent coversations.
+- 🌱 I build projects with frameworks like NestJs, Flask, Django, Fastapi, flask
+- 😊 I’m looking to contribute to open source projects.
+- 💼 Job interests: Backend Software Engineering.
+- 📫 You can contact me via Twitter: [@Missnikkybaby](https://twitter.com/Missnikkybaby) , email: ogundiranolanike@outlook.com or LinkedIn: [Olanike](www.linkedin.com/in/olanike-ogundiran-972845167)
 
 ---
 
