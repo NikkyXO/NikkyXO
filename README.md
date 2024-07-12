@@ -17,8 +17,10 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a Software Engineer, dentist. I'm passionate about learning, web development, solving problems (in communication, tech and health), creating & maintaining healthy connections, and having a positive impact.
-
+I'm a Software Engineer, dedicated and with a strong foundation in data engineering and agile methodologies, determined
+to leave a lasting imprint on the technological landscape and is passionate about continuous growth.
+Seeking to leverage my technical expertise and problem-solving skills to drive software development excellence in a
+dynamic tech environment
 **Here's a quick summary about me**:
 
 - 👨‍💻 Pronouns: She/Her.
