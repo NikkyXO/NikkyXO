@@ -20,8 +20,9 @@
 I'm a dedicated software engineer and with a strong foundation in agile methodologies. I am passionate about continuous growth, and also determined
 to leave a lasting imprint on the technological landscape.
 Seeking to leverage my technical expertise and problem-solving skills to drive innovation and excellence in a
-dynamic work environment
-**Here's a quick summary about me**:
+dynamic work environment.
+
+**Here's a quick summary about me**
 
 - 👨‍💻 Pronouns: She/Her.
 - 💡 Fun facts: I am a Tems superfan.
