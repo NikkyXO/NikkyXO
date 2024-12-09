@@ -17,17 +17,20 @@
   Hello and Welcome! 👋🏾
 </h1>
 
-I'm a Software Engineer, dedicated and with a strong foundation in data engineering and agile methodologies, determined
-to leave a lasting imprint on the technological landscape and is passionate about continuous growth.
-I am Seeking to leverage my technical expertise and problem-solving skills to drive innovation and excellence in a
-dynamic tech environment
+I'm a dedicated software engineer and with a strong foundation in agile methodologies. I am passionate about continuous growth, and also determined
+to leave a lasting imprint on the technological landscape.
+Seeking to leverage my technical expertise and problem-solving skills to drive innovation and excellence in a
+dynamic work environment
 **Here's a quick summary about me**:
 
 - 👨‍💻 Pronouns: She/Her.
-- 💡 Fun facts: I love listening to Tems. i am knowledge-hungry. i love intelligent coversations.
-- 🌱 I build projects with frameworks like NestJs, Flask, Django, Fastapi, flask
+- 💡 Fun facts: I am a Tems superfan.
+- 😇 I am knowledge-hungry
+- 💕 i love intelligent coversations.
+- 🌱 I build projects with  NestJs, Flask, Django, Fastapi, React, Vuejs
+- 😍 Programming languages i use are Javascript, Python, Java
 - 😊 I’m looking to contribute to open source projects.
-- 💼 Job interests: Backend Software Engineering.
+- 💼 Job interests: Full stack Software Engineering.
 - 📫 You can contact me via Twitter: [@Missnikkybaby](https://twitter.com/Missnikkybaby) , email: ogundiranolanike@outlook.com or LinkedIn: [Olanike](www.linkedin.com/in/olanike-ogundiran-972845167)
 
 ---
